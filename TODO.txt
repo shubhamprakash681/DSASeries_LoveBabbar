@@ -1,0 +1,6 @@
+Binary search (L14)
+insertion sort(L18)
+
+char Array & 2d array (L22 & 23)
+Basic maths(L24)
+pointers series(L25 to L29)
